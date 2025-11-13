@@ -1,3 +1,5 @@
+# Context: 系統管理員註冊 Data Source 並透過 Workspaces 指派給團隊，確保多租戶環境共享一致的資料接入。
+# 參考 glossary：[Data Source](../glossary.md#data-source)、[Workspaces](../glossary.md#workspaces)、[Saved Objects](../glossary.md#saved-objects)。
 # evidence: docs/multi-datasource/high_level_design.md
 # evidence: docs/plugins/discover/getting_started_with_discover.md
 # evidence: src/plugins/workspace/README.md

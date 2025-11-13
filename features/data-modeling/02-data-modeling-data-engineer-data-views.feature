@@ -1,3 +1,5 @@
+# Context: 資料工程師將 DataView 正規化為 Dataset，讓偵測團隊在各資料來源維持一致查詢體驗。
+# 參考 glossary：[DataView](../glossary.md#dataview)、[Dataset](../glossary.md#dataset)、[Data Source](../glossary.md#data-source)。
 # evidence: docs/plugins/data/datasets/data_views.md
 # evidence: docs/plugins/discover/understand_and_extend_discover.md
 Feature: 資料工程師為了提供跨來源一致查詢，需維護 DataView 與 Dataset 正規化模型給偵測團隊使用

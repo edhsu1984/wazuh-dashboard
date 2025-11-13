@@ -1,3 +1,5 @@
+# Context: L2 分析師在 Discover 2.0 切換查詢語言並保存 Saved Search，以重複利用有效的偵測視圖。
+# 參考 glossary：[Discover 2.0](../glossary.md#discover-20)、[Saved Search](../glossary.md#saved-search)、[Data Source](../glossary.md#data-source)。
 # evidence: docs/plugins/discover/getting_started_with_discover.md
 # evidence: docs/plugins/discover/understand_and_extend_discover.md
 Feature: L2 分析師為提升異常偵測準度，需在 Discover 2.0 中跨資料來源查詢並保存可重複使用的偵測視圖
