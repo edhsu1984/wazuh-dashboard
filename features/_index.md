@@ -8,6 +8,7 @@
 - **IR（Incident Response 指揮）**：擁有 Saved Objects API 讀寫與查詢編輯器擴充權限以整合自動化。對應 `@role:ir`。
 
 ## 功能模組與 Feature 對照
+- **端到端使用者旅程**：[features/user_journey.md](./user_journey.md)
 - **01 資料接入**：`features/data-onboarding/01-data-onboarding-admin-multi-datasource.feature`
 - **02 資料建模與正規化**：`features/data-modeling/02-data-modeling-data-engineer-data-views.feature`
 - **03 偵測與分析**：`features/detection-analytics/03-detection-analytics-l2-discover.feature`
