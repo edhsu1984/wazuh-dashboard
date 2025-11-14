@@ -1,5 +1,6 @@
 # Wazuh Dashboard XDR/SIEM 功能驗收索引
 
+在閱讀情境前，建議先查閱[功能驗收常用名詞 Glossary](glossary.md)，非技術讀者可依賴該名詞表快速掌握 DataView、Saved Objects、Workspaces 等術語。
 ## 人物誌與權限
 - **Manager（安全經理）**：具備多租戶設定、資料來源維運與工作空間稽核權限。對應 `@role:manager`。
 - **L1（告警分流人員）**：可存取指派的工作空間、檢視與複製儀表板及 Saved Search。對應 `@role:l1`。

@@ -1,3 +1,5 @@
+# Context: 安全經理稽核 Workspaces 與關聯的 Saved Objects，確保事件結案資產與權限一致。
+# 參考 glossary：[Workspaces](../glossary.md#workspaces)、[Saved Objects](../glossary.md#saved-objects)、[Data Source](../glossary.md#data-source)。
 # evidence: src/plugins/workspace/README.md
 Feature: 安全經理為完成事件結案審查，需審核工作空間與 saved object 關聯以確保資產留存與權限一致
   Background:

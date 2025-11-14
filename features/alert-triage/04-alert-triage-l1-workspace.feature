@@ -1,3 +1,5 @@
+# Context: L1 分流人員透過 Workspaces 共用儀表板與 Saved Search，確保不同小組調閱同一版資產。
+# 參考 glossary：[Workspaces](../glossary.md#workspaces)、[Saved Objects](../glossary.md#saved-objects)、[Saved Search](../glossary.md#saved-search)。
 # evidence: src/plugins/workspace/README.md
 # evidence: docs/openapi/saved_objects/saved_objects.yml
 Feature: L1 分流人員為確保告警處理一致性，需在工作空間中取得並複製 Saved Search 以支援多隊伍調閱

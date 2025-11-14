@@ -1,3 +1,5 @@
+# Context: Incident Response 指揮結合 Saved Objects API 與 QueryEditorExtension，自動化記錄與觸發回應劇本。
+# 參考 glossary：[Incident Response Automation](../glossary.md#incident-response-automation)、[Saved Objects](../glossary.md#saved-objects)、[QueryEditorExtension](../glossary.md#queryeditorextension)。
 # evidence: docs/openapi/saved_objects/saved_objects.yml
 # evidence: docs/plugins/data/query-editor-enhancements.md
 Feature: 事件應變指揮為加速回應自動化，需結合 Saved Objects API 與查詢編輯器擴充來觸發作業與紀錄處置狀態

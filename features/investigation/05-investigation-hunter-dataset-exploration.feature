@@ -1,3 +1,5 @@
+# Context: Threat Hunter 借助 Dataset Explorer 建立即用 Dataset 與暫存 index pattern，快速鎖定攻擊路徑。
+# 參考 glossary：[Dataset Explorer](../glossary.md#dataset-explorer)、[Dataset](../glossary.md#dataset)、[Discover 2.0](../glossary.md#discover-20)。
 # evidence: docs/plugins/discover/understand_and_extend_discover.md
 Feature: Threat Hunter 為重建攻擊路徑，需於 Discover 中使用 Dataset Explorer 建立暫存 Index Pattern 以進行深度調查
   Background:
